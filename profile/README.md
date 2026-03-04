@@ -7,7 +7,7 @@ Our vision is to transform fragmented advertising markets into a unified, intell
 By introducing standardization, transparency, and intelligence across the advertising supply chain, Auraverse aims to evolve advertising into a system that operates with the precision of financial infrastructure — measurable, efficient, and continuously optimized for growth.
 
 
-[![Auraverse](https://github.com/auraverse-club/.github/blob/main/profile/website.png)](https://auraverse.club)
+[![Auraverse](https://github.com/auraverse-club/.github/blob/main/profile/auraverse-cover.png)](https://auraverse.club)
 
 
 ### Connect With Us
