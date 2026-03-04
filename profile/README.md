@@ -1,5 +1,3 @@
-## Auraverse
-
 Auraverse is building the **programmatic infrastructure layer for global advertising**.
 
 Our vision is to transform fragmented advertising markets into a unified, intelligent ecosystem where media inventory becomes structured and accessible, campaigns are executed programmatically, and capital allocation is guided by data and artificial intelligence.
