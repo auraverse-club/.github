@@ -1,12 +1,18 @@
-## Hi there 👋
+# Auraverse
 
-<!--
+Auraverse is building infrastructure designed to unify the fragmented global advertising ecosystem.
 
-**Here are some ideas to get you started:**
+Our goal is to create the foundational systems that enable businesses to activate intelligent campaigns, access media more efficiently, and measure growth with predictive insights.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Auraverse focuses on building technology that connects the entire lifecycle of digital growth — from creative activation to campaign orchestration and performance intelligence.
+
+
+## Connect With Us
+
+| Platform | Link |
+|--------|------|
+| 🌐 Website | https://auraverse.club |
+| 📸 Instagram | https://www.instagram.com/auraverse_club/ |
+| 🐦 Twitter / X | https://x.com/auraverse_club |
+| 💼 LinkedIn | https://www.linkedin.com/company/auraverse-club |
+| ▶️ YouTube | https://www.youtube.com/@auraverse_club |
